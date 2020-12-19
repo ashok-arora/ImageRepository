@@ -1,0 +1,23 @@
+{
+	"name": "ImageRepository",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ashok-arora/ImageRepository.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ashok-arora/ImageRepository/issues"
+	},
+	"homepage": "https://github.com/ashok-arora/ImageRepository#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
